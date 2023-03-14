@@ -31,6 +31,6 @@ int main(){
     // changes i do for understanding git 
     cin>>x;
     cout<<"Reverse value of your interger is "<<s->reverse(x)<<endl;
-    
+    // skipping the stage area and commiting direcltly
     return 0;
 }
